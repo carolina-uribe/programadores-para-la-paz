@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes se muestran los reportes que fueron registrados mediante la ruta POST. Inicialmente aparece un arreglo vacío ([]), pero después de registrar reportes se muestran con su id, tipo y descripción. Los datos se almacenan temporalmente en memoria mientras el servidor está en ejecución.
