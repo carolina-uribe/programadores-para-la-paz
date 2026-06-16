@@ -1,0 +1,8 @@
+Comando uname -a:
+Muestra información del sistema operativo, la versión del kernel, la arquitectura y otros datos técnicos.
+
+Comando whoami:
+Muestra el nombre del usuario actual del sistema. En este caso, el usuario es hp.
+
+Importancia:
+Esta información es útil para administrar servidores, identificar usuarios activos y conocer las características del sistema donde se ejecutan los servicios.
